@@ -40,7 +40,7 @@ This dataset is a human collected data since 2019 until now.
 
 {You can use this area for any images you want to include}
 
-<img src ="images/test.png" width="100px">
+<img src ="Apex Legend.jpg" width="500px">
 
 ## References
 
