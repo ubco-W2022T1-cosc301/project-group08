@@ -31,7 +31,7 @@ This dataset is a human collected data since 2019 until now.
 **Please remember to update this section**
 
 - Zhiheng Zhang: rookie FPS gamer
-- Person 2: one sentence about you!
+- Xinquan Ge: Genji player
 - Person 3: one sentence about you!
 
 ## Images
