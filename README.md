@@ -31,7 +31,7 @@ This dataset is a human collected data since 2019 until now.
 
 - Zhiheng Zhang: rookie FPS gamer
 - Xinquan Ge: Genji player
-- Person 3: rookie dota2 player
+- Tony Yue: rookie dota2 player
 
 ## Images
 
