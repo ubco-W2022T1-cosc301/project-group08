@@ -1,0 +1,11 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pylab as plt
+import seaborn as sns#Understanding my variables
+import plotly.express as px
+def load_and_process(url_or_path_to_csv_file):
+    df1 = (
+        pd.read_csv(url_or_path_to_csv_file)
+        .rename(columns={'earnings':'prize'})
+        .drop('earnings_rank', axis =1)
+    return df1
