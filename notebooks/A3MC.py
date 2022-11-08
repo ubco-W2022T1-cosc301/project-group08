@@ -26,7 +26,7 @@ def player_infor(path) :
 
 
 def org_infor(path) :
-    df = pd.read_csv('path').drop(['earning_rank'],axis = 1).rename(column={'earnings':'award money'})
+    df = pd.read_csv('path').drop(['earning_rank'],axis = 1).rename(columns={'earnings':'award money'})
     df
     
 
